@@ -1,0 +1,17 @@
+<Cities>
+    <Detroit>
+        <Name>Detroit</Name>
+        <Danger>10</Danger>
+        <ID>1</ID>
+    </Detroit>
+    <NewOrleans>
+        <Name>New Orleans</Name>
+        <Danger>10</Danger>
+        <ID>1</ID>
+    </NewOrleans>
+    <Baltimore>
+        <Name>Baltimore</Name>
+        <Danger>10</Danger>
+        <ID>1</ID>
+    </Baltimore>
+</Cities>

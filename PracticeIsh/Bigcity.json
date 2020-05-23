@@ -1,0 +1,19 @@
+{
+  "Cities": [
+    {
+      "Name" : "Detroit",
+      "Danger" : 10,
+      "ID": 1
+    },
+    {
+      "Name" : "New Orleans",
+      "Danger" : 6,
+      "ID": 2
+    },
+    {
+      "Name" : "Baltimore",
+      "Danger" : 9,
+      "ID": 3
+    }
+  ]
+}
